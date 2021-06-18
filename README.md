@@ -7,12 +7,13 @@ When your apple device got upgraded to new OS, the current XCode version you hav
 ### iOS - [release note](https://developer.apple.com/documentation/ios-ipados-release-notes)
 
 * [15.0](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/15.0/15.0.zip)
+* [14.6](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/14.6/14.6.zip)
 * [14.5](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/14.5/14.5.zip)
 * [14.4](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/14.4/14.4.zip)
 * [14.3](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/14.3/14.3.zip)
 * [14.2](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/14.2/14.2.zip)
-* 14.1
-* 14.0 
+* [14.1](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/14.1/14.1.zip)
+* [14.0](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/releases/download/14.0/14.0.zip)
 * 13.7 
 * 13.6 
 * 13.5 
