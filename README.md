@@ -58,3 +58,7 @@ Path: `/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/De
 
 Tip: Restart the Xcode
 
+# Enable Developer Mode
+Enable Developer Mode go to Settings > Privacy & Security on the iOS device. Scroll down to the Developer Mode list item and navigate into it. To toggle Developer mode, use the “Developer Mode” switch.
+
+![image](https://github.com/mspvirajpatel/Xcode_Developer_Disk_Images/assets/26880739/5fdcb767-a212-45ce-8f79-f910bcb5db72)
